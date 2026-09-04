@@ -25,7 +25,7 @@ Here's the README.md section with the project documentation links:
 
 ## Project Documentation
 
-- [Project_Charter](docs/Project_Charter.md)
-- [Requirements_Specification](docs/Requirements_Specification.md)
-- [Acceptance_Criteria](docs/Acceptance_Criteria.md)
-- [Database_Design](docs/Database_Design.md)
+- [Project_Charter](Docs/Project_Charter.md)
+- [Requirements_Specification](Docs/Requirements_Specification.md)
+- [Acceptance_Criteria](Docs/Acceptance_Criteria.md)
+- [Database_Design](Docs/Database_Design.md)
