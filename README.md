@@ -1,1 +1,1 @@
-# GG-finder
+# GG-Finder
