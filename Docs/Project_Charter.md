@@ -1,7 +1,6 @@
 # Project Charter - GG Finder
 
-**Project Name:** GG Finder  
-**Date:** 2026-09-04  
+**Project Name:** GG Finder   
 **Version:** 1.0  
 **Document Type:** Project Charter
 
