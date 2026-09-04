@@ -1,7 +1,7 @@
 # Requirements Specification - GG Finder
 
 **Project Name:** GG Finder  
-**Date:** 2026-09-04  
+
 **Version:** 1.0  
 **Document Type:** Requirements Specification
 
