@@ -19,7 +19,7 @@ Global gaming platforms suffer from latency issues, time zone differences, and c
 ## Main Features
 Browse nearby gamers within 5km showing username, game, rank, and real-time online status. View complete profiles including main game, rank, preferred role, and win rate statistics. Send squad requests instantly and receive real-time notifications for all gaming opportunities.
 
-Here's the README.md section with the project documentation links:
+
 
 ---
 
