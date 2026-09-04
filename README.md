@@ -26,6 +26,6 @@ Browse nearby gamers within 5km showing username, game, rank, and real-time onli
 ## Project Documentation
 
 - [Project_Charter](Docs/Project_Charter.md)
-- [Requirements_Specification](Docs/Requirements_Specification.md)
+- [Requirements_Specification.md](Requirements_Specification.md)
 - [Acceptance_Criteria](Docs/Acceptance_Criteria.md)
 - [Database_Design](Docs/Database_Design.md)
